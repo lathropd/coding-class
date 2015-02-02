@@ -1,3 +1,12 @@
+#Welcome to coding for journalists!
+
+Hi, welcome to python for journalists. If you're not taking this as part of the class, you'll need to go through a few preliminary steps. Hopefully for those in the class, you can skip to the section, called "Enter the Python."
+
+
+##Install VirtualBox, your computer within an computer
+
+Since everyone is using kinds of computers on different OS versions and may not have administrative rights, we're using a "VirtualBox" to run a virtual "Linux Workstation" on everyone's machine. Trust us, it's not as scary as it sounds.
+
 Go to [virtualbox.org](https://www.virtualbox.org/wiki/Downloads) and download the installer for your operating system. (Note, for those who are in the class, using a work computer, IT has already done this for you.)
 
 <br>
@@ -36,7 +45,7 @@ Start the VirtualBox instance
 
 
 
-#Start python for the very first time
+##Enter the Python
 
 iPython notebook is a tool for displaying and publishing Python scripts. We'll be using it this first week before we learn some more advanced coding tools.
 <br>
@@ -74,7 +83,8 @@ Now click the "play" button. You should see that printed out on the line below a
 
 *Congratulations, you are now a programmer.*
 
-#Your first "real" program
+
+##Your first real program
 
 All real programs consist of *functions*, *operations*, *variables* and *control structures*. (There are other goodies, but those come later.)
 
@@ -101,7 +111,6 @@ print(bar)
 Now run it.
 
 Pretty cool, right? You always _set_ a _variable_ by typing it's name, a space, an equals sign, another space and the value you want to set.
-
 
 You can also perform _operations_ on your variables. The most common kind are arithmetic: +,  -, *&nbsp;(times), / &nbsp;(divided by).
 
