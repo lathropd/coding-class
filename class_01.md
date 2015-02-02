@@ -1,6 +1,6 @@
 #Welcome to coding for journalists!
 
-Hi, welcome to python for journalists. If you're not taking this as part of the class, you'll need to go through a few preliminary steps under "[Install Virtual Box](virtualbox)". Hopefully for those in the class, you can skip to the section, called "Enter the Python."
+Hi, welcome to python for journalists. If you're not taking this as part of the class, you'll need to go through a few preliminary steps under "[Install Virtual Box](virtualbox.md)". Hopefully for those in the class, you can skip to the section, called "Enter the Python."
 
 
 ##Enter the Python
