@@ -5,7 +5,9 @@ Hi, welcome to python for journalists. If you're not taking this as part of the 
 
 ##Enter the Python
 
-First, start VirtualBox.
+###1. Start VirtualBox.
+
+###2. Load iPython Notbook
 
 iPython notebook is a tool for displaying and publishing Python scripts. We'll be using it this first week before we learn some more advanced coding tools.
 <br>
@@ -26,12 +28,11 @@ ipython notebook
 
 <br>
 
+###3. Create a new notebook
 
 You are now in the iPython notebook. Create a New Notebook then click on its title and change the name to "Week 1".
 
 [![](https://datalab-assets.s3.amazonaws.com/media/CACHE/images/markdown/images/Screen_Shot_2015-02-02_at_11.32.45_AM/cfcfbfe6e6cefb41751c011278ac488b.png)](https://datalab-assets.s3.amazonaws.com/media/CACHE/images/markdown/images/Screen_Shot_2015-02-02_at_11.32.45_AM/9a75a095fd0f60b26eba3ce4f9c74bbe.png)
-
-
 
 In the command box type:
 
@@ -44,7 +45,7 @@ Now click the "play" button. You should see that printed out on the line below a
 *Congratulations, you are now a programmer.*
 
 
-##Your first real program
+###4. Your first real program
 
 All real programs consist of *functions*, *operations*, *variables* and *control structures*. (There are other goodies, but those come later.)
 
@@ -71,6 +72,8 @@ print(bar)
 Now run it.
 
 Pretty cool, right? You always _set_ a _variable_ by typing it's name, a space, an equals sign, another space and the value you want to set.
+
+###5. Math. Sorry.
 
 You can also perform _operations_ on your variables. The most common kind are arithmetic: +,  -, *&nbsp;(times), / &nbsp;(divided by).
 
@@ -110,6 +113,9 @@ bar_percent = round(bar_percent, 3) * 100
 print(bar_percent)
 ```
 
+
+###6. Entering data from the keyboard
+
 Next we're going to have you enter the initial and final values of a new variables, _thing1_ and _thing2_. Make thing2 slightly bigger than thing1:
 
 ```python
@@ -123,6 +129,8 @@ print(nice_percent)
 ```
 
 What's with "int()"? Great question. Python stores different _types_ of _variable_. When you enter texct from the keyboard it comes in as a _string_. But to do math it needs to be an whole number (called 'integer' or _int_) or a decimal number (called 'floating point' or _float_). We use the _float()_ function to try to turn a _string_ into an _float_. We could also use _int()_, but we'd get an error when we tried to enter a decimal point.
+
+###7. Make it look a bit nicer
 
 Next thing, we're going to try to make that value look a little nice.
 
@@ -164,6 +172,8 @@ else:
 ```
 
 The colon and the indent underneath is how Python knows that we're trying to decide between multiple options.
+
+###8. Make your own function, so you can use it later
 
 Almost done, I promise. The last thing we're going to do is create our own _function_, a bit like _print()_ or _input()_. But this one is going to run our whole calculator for us. We do that using the _def_ statement and indenting everything beneath it.
 
