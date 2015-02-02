@@ -1,13 +1,14 @@
 #Welcome to coding for journalists!
 
-Hi, welcome to python for journalists. If you're not taking this as part of the class, you'll need to go through a few preliminary steps under "[Install Virtual Box](virtualbox.md)". Hopefully for those in the class, you can skip to the section, called "Enter the Python."
+Hi, welcome to python for journalists. If you're not taking this as part of the class, you'll need to go through a few preliminary steps under "[Install Virtual Box](virtualbox.md)". Hopefully for those in the class, you can skip to the section, called "Load iPython Notebook."
 
-
-##Enter the Python
 
 ###1. Start VirtualBox.
 
-###2. Load iPython Notbook
+See the details under the [install directions](virtualbox.md).
+
+
+###2. Load iPython Notebook
 
 iPython notebook is a tool for displaying and publishing Python scripts. We'll be using it this first week before we learn some more advanced coding tools.
 <br>
