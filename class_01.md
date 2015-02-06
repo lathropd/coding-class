@@ -3,33 +3,8 @@
 Hi, welcome to python for journalists. If you're not taking this as part of the class, you'll need to go through a few preliminary steps under "[Install Virtual Box](virtualbox.md)". Hopefully for those in the class, you can skip to the section, called "Load iPython Notebook."
 
 
-###1. Start VirtualBox.
 
-See the details under the [install directions](virtualbox.md).
-
-
-###2. Load iPython Notebook
-
-iPython notebook is a tool for displaying and publishing Python scripts. We'll be using it this first week before we learn some more advanced coding tools.
-<br>
-But to run it, we first need to meet our new friend, the command line.
-<br>
-Go to the Ubuntu search box (upper left hand icon) and type "terminal" then click the "Terminal" icon.
-<br>
-
-[![terminal](https://datalab-assets.s3.amazonaws.com/media/CACHE/images/markdown/images/Screen_Shot_2015-02-02_at_11.21.49_AM/408839e35fc47d15afdc589d31a17b37.png)](https://datalab-assets.s3.amazonaws.com/media/CACHE/images/markdown/images/Screen_Shot_2015-02-02_at_11.21.49_AM/ebedde05fe5ea26babb0a4ad9189ff03.png)
-<br>
-
-
-In the terminal enter the command.
-
-```bash
-ipython notebook
-```
-
-<br>
-
-###3. Create a new notebook
+###3. Create an iPython notebook
 
 You are now in the iPython notebook. Create a New Notebook then click on its title and change the name to "Week 1".
 
