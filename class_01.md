@@ -1,7 +1,6 @@
 #Welcome to coding for journalists!
 
-Hi, welcome to python for journalists. If you're not taking this as part of the class, you'll need to go through a few preliminary steps under "[Install Virtual Box](virtualbox.md)". Hopefully for those in the class, you can skip to the section, called "Load iPython Notebook."
-
+Hi, welcome to python for journalists. If you're not taking this as part of the class, you'll need to go through a few preliminary steps...
 
 
 ###3. Create an iPython notebook
